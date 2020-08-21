@@ -165,3 +165,8 @@ The `*.d.ts` files in this project are based on [DefinitelyTyped](https://github
 - Mark Caudill https://github.com/mc0
 - Martijn Walraven https://github.com/martijnwalraven
 - Jed Mao https://github.com/jedmao
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/graphql/graphql-spec.svg)](https://starchart.cc/graphql/graphql-spec)
+      
